@@ -7,5 +7,4 @@
 Óêàæèòå ñâîé user.name è user.email â git.
 Óêàæèòå ñâîé user.name è user.email â git.
 Óêàæèòå ñâîé user.name è user.email â git.
-Óêàæèòå ñâîé user.name è user.email â git.
-Óêàæèòå ñâîé user.name è user.email â git.
+
